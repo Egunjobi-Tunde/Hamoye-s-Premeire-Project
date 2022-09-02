@@ -9,9 +9,10 @@ day's stock price.
 
 
 Name	GitHub Link
-Egunjobi Tunde	https://github.com/Egunjobi-Tunde (Project Lead)
 
-Flora Okezue	https://github.com/thephloral   (Query Analyst)
+Egunjobi Tunde	https://github.com/Egunjobi-Tunde     (Project Lead)
+
+Flora Okezue	https://github.com/thephloral     (Query Analyst)
 
 Agbata Dickson Ukolojo	https://github.com/Ukolojoaud
 
