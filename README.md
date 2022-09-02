@@ -7,48 +7,54 @@ day's stock price.
 
 ## TEAM MEMBERS
 
-Tunde Egunjobi (Project Lead)
+### Tunde Egunjobi (Project Lead)
 
-Abdullah Ishola Hammed( Assistance Project Lead)
 
-Flora Okezue (Query Analyst)
+GitHub Link of Group Members
 
-Adesokan Sulaimon Adewale(Presenter)
+https://github.com/Egunjobi-Tunde
 
-Ashinze Emmanuel Chidi (Presenter)
+https://github.com/thephloral
 
-Abdulhfiz Abdus-salaam
+https://github.com/Ukolojoaud
 
-Agbata Dikson Ukolojo
+https://github.com/AtandaAbdul
 
-Bukola Zainab Agoro
 
-Chibuike Lawrence Orji-oko
+https//github.com/worldchangero/Nwagu.git
 
-Esther Chizitere Amadi
+github.com/Mystique1337
 
-Favour Emmanuel
+github.com/theabdullahishola
 
-Favour Uwaishe
+https://github.com/Horlardmaygee
 
-Joseph Komolafe
+https://github.com/Zeeyh
 
-Modupeoluwa Adedeji
+github.com/chibykelaw
 
-Muhammed Balogun
 
-Oghenekaro Oghoroko
+https://github.com/evansigho/
 
-Okwudiri Godswill Nwagu
+https://github.com/FayvePotato
 
-Oluwasayo Akinkunmi
+https://github.com/rnjema
 
-Poucheu Mbonda Florian-wilfred
+https://github.com/ChizitereE
 
-Quadiri Omotesho
+https://github.com/adedupsy
 
-Ramsey Ithacius Njema
+https://github.com/muhammedbalogun
 
-Subomi Oyewole
+https://github.com/Teeebest
 
-Victoria Ihenetu
+github.com/subomijo
+
+GitHub.com/awallexy3216
+
+https://github.com/pouchkine 
+
+https://github.com/F-Emm
+
+
+
