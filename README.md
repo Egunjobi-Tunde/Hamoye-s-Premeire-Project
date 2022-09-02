@@ -7,54 +7,28 @@ day's stock price.
 
 ## TEAM MEMBERS
 
-### Tunde Egunjobi (Project Lead)
 
-
-GitHub Link of Group Members
-
-https://github.com/Egunjobi-Tunde
-
-https://github.com/thephloral
-
-https://github.com/Ukolojoaud
-
-https://github.com/AtandaAbdul
-
-
-https//github.com/worldchangero/Nwagu.git
-
-github.com/Mystique1337
-
-github.com/theabdullahishola
-
-https://github.com/Horlardmaygee
-
-https://github.com/Zeeyh
-
-github.com/chibykelaw
-
-
-https://github.com/evansigho/
-
-https://github.com/FayvePotato
-
-https://github.com/rnjema
-
-https://github.com/ChizitereE
-
-https://github.com/adedupsy
-
-https://github.com/muhammedbalogun
-
-https://github.com/Teeebest
-
-github.com/subomijo
-
-GitHub.com/awallexy3216
-
-https://github.com/pouchkine 
-
-https://github.com/F-Emm
-
+Name	GitHub Link
+Egunjobi Tunde	https://github.com/Egunjobi-Tunde (Project Lead)
+Flora Okezue	https://github.com/thephloral   (Query Analyst)
+Agbata Dickson Ukolojo	https://github.com/Ukolojoaud
+Abdus-Salaam AbdulHafiz Atanda 	https://github.com/AtandaAbdul
+NWAGU OKWUDIRI GODSWILL	https//github.com/worldchangero/Nwagu.git
+Ashinze Emmanuel Chidi 	github.com/Mystique1337   (Presenter)
+Hammed Abdullah Ishola	github.com/theabdullahishola    (Assistant Project Lead)
+Quadri Omotesho	https://github.com/Horlardmaygee
+Bukola Zainab Agoro	https://github.com/Zeeyh
+Chibuike Lawrence Orji-Oko	github.com/chibykelaw
+Oghenekaro Igho Oghoroko 	https://github.com/evansigho/
+Favour Uwaishe	https://github.com/FayvePotato
+Ramsey Ithacius Njema	https://github.com/rnjema
+Chizitere Amadi	https://github.com/ChizitereE
+modupeoluwa adedeji	https://github.com/adedupsy
+Muhammed Balogun 	https://github.com/muhammedbalogun
+Joseph Komolafe	https://github.com/Teeebest
+Subomi Oyewole	github.com/subomijo
+Adesokan Sulaimon Adewale	gitHub.com/awallexy3216 (Presenter)
+POUCHEU MBONDA FLORIAN	https://github.com/pouchkine 
+Emmanuel Favour N.	https://github.com/F-Emm
 
 
