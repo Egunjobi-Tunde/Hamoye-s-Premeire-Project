@@ -5,6 +5,9 @@ The aim of the project is to perform an EDA(Exploratory Data Analysis) on the st
 three companies (Amazon, Apple, and Microsoft) and build a model that will predict the next
 day's stock price. 
 
+The link for the dataset: https://www.kaggle.com/datasets/dgawlik/nyse
+
+
 ## TEAM MEMBERS
 
 
