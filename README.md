@@ -15,6 +15,8 @@ Name	GitHub Link
 
 Egunjobi Tunde	https://github.com/Egunjobi-Tunde     (Project Lead)
 
+Hammed Abdullah Ishola	github.com/theabdullahishola    (Assistant Project Lead)
+
 Flora Okezue	https://github.com/thephloral     (Query Analyst)
 
 Agbata Dickson Ukolojo	https://github.com/Ukolojoaud
@@ -25,7 +27,7 @@ NWAGU OKWUDIRI GODSWILL	https//github.com/worldchangero/Nwagu.git
 
 Ashinze Emmanuel Chidi 	github.com/Mystique1337   (Presenter)
 
-Hammed Abdullah Ishola	github.com/theabdullahishola    (Assistant Project Lead)
+
 
 Quadri Omotesho	https://github.com/Horlardmaygee
 
